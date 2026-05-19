@@ -1,3 +1,8 @@
+Proyecto Blog-Mundial.
+Edilver Brizon CI. 28.126.552
+Abraham Machado CI. 27.127.913
+
+
 # 🏆 MundialBlog — Vanilla Web Project
 
 Aplicación interactiva y responsiva sobre la Copa del Mundo de Fútbol. Este proyecto ha sido desarrollado como una **Single Page Application (SPA)** autocontenida utilizando estrictamente estándares web nativos, cumpliendo con los objetivos y fases de desarrollo técnico especificados en los briefs de la asignatura.
